@@ -1,2 +1,6 @@
 # EV_Conversion
-Projects done in collaboration with EVahan, a startup company.
+Projects done in collaboration with EVahan, a startup company. Project involved conversion of a two-wheeler ic engine motorbike to a pure electric bike. Motor and battery size was calculated using a Simulink model.
+
+# Simulink Models
+
+
