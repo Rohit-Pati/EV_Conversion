@@ -6,3 +6,7 @@ Projects done in collaboration with EVahan, a startup company. Project involved 
 ![Vehicle Resistive Model](/Pictures/VehicleResistive.png)
 
 ![Battery Design](/Pictures/BatteryDesign.png)
+
+# Product Picture
+
+![Product](/Pictures/EVConvert.jpg)
