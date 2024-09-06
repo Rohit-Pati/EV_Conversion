@@ -3,4 +3,6 @@ Projects done in collaboration with EVahan, a startup company. Project involved 
 
 # Simulink Models
 
+![Vehicle Resistive Model](/Pictures/VehicleResistive.png)
 
+![Battery Design](/Pictures/BatteryDesign.png)
